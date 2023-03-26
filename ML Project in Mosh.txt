@@ -1,0 +1,18 @@
+Các bước:
+1. Import dữ liệu
+2. Làm sạch dữ liệu
+3. Chia dữ liệu thành 2 nhóm: dữ liệu đào tạo và dữ liệu test
+4. Chọn một mô hình (như cây quyết định, mạng nơ ron)
+5. Huấn luyện mô hình
+6. Đưa ra dự đoán
+7. Đánh giá prj
+__________
+Phím tắt Jupyter
+A: 		insert trên
+B: 		insert dưới
+X:		xóa cell
+Ctrl+Enter:	run
+Shift + L:	show line numbers
+_________
+Tính bền bỉ của mô hình
+
